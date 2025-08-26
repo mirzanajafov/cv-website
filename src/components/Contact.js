@@ -23,7 +23,7 @@ const Contact = () => {
     {
       icon: FaEnvelope,
       title: 'Email',
-      value: 'mirzanajafo@gmail.com'
+      value: 'mirzanajafov@gmail.com'
     },
     {
       icon: FaPhone,
