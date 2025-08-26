@@ -50,7 +50,9 @@ const Experience = () => {
       achievements: [
         'Developed and maintained web applications',
         'Collaborated with clients to deliver projects on time',
-        'Improved system performance by 40%'
+        'API development with REST pattern',
+        'Optimizing and refactoring existing codebase',
+        'Building user interface from design'
       ]
     }
   ];
